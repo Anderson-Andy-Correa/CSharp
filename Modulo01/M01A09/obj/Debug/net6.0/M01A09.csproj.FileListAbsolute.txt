@@ -1,0 +1,15 @@
+C:\Users\anderson.correa\source\repos\Modulo01\M01A09\bin\Debug\net6.0\M01A09.exe
+C:\Users\anderson.correa\source\repos\Modulo01\M01A09\bin\Debug\net6.0\M01A09.deps.json
+C:\Users\anderson.correa\source\repos\Modulo01\M01A09\bin\Debug\net6.0\M01A09.runtimeconfig.json
+C:\Users\anderson.correa\source\repos\Modulo01\M01A09\bin\Debug\net6.0\M01A09.dll
+C:\Users\anderson.correa\source\repos\Modulo01\M01A09\bin\Debug\net6.0\M01A09.pdb
+C:\Users\anderson.correa\source\repos\Modulo01\M01A09\obj\Debug\net6.0\M01A09.csproj.AssemblyReference.cache
+C:\Users\anderson.correa\source\repos\Modulo01\M01A09\obj\Debug\net6.0\M01A09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.correa\source\repos\Modulo01\M01A09\obj\Debug\net6.0\M01A09.AssemblyInfoInputs.cache
+C:\Users\anderson.correa\source\repos\Modulo01\M01A09\obj\Debug\net6.0\M01A09.AssemblyInfo.cs
+C:\Users\anderson.correa\source\repos\Modulo01\M01A09\obj\Debug\net6.0\M01A09.csproj.CoreCompileInputs.cache
+C:\Users\anderson.correa\source\repos\Modulo01\M01A09\obj\Debug\net6.0\M01A09.dll
+C:\Users\anderson.correa\source\repos\Modulo01\M01A09\obj\Debug\net6.0\refint\M01A09.dll
+C:\Users\anderson.correa\source\repos\Modulo01\M01A09\obj\Debug\net6.0\M01A09.pdb
+C:\Users\anderson.correa\source\repos\Modulo01\M01A09\obj\Debug\net6.0\M01A09.genruntimeconfig.cache
+C:\Users\anderson.correa\source\repos\Modulo01\M01A09\obj\Debug\net6.0\ref\M01A09.dll
